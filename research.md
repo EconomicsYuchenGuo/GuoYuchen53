@@ -6,7 +6,7 @@ layout: research
 
 **The Digital Economy （Digital Governance） under Big Data Applications**
 
-["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and [Yadi Liu].
+["The heterogeneous impact of public security cameras on safety perceptions in cities: Evidence from China",](https://www.dropbox.com/scl/fi/1z8oj9bj0uuhllcnhqpkk/PNAS-NEXUS.pdf?rlkey=oajuxlhdef47hkj3a3kwn1bl0&st=dlcc0r85&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan), [Fanqi Zeng](https://www.fanqizeng.com/) and Yadi Liu.
 *PNAS Nexus*, 2025
 <details>
 <summary><u>Abstract</u></summary> 
@@ -15,7 +15,7 @@ layout: research
 </details>
 
 
-["Local Governments and the Diffusion of Video Surveillance in China: Evidence from the Public Procurement Contracts",](https://www.dropbox.com/scl/fi/2gqbfmu5a6xdpz9efhayy/Journal-of-Chinese-Political-Science.pdf?rlkey=i3p3aaf5lt70dey7jvqq8jg7g&st=xfzdhsbg&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Xijie Li].   
+["Local Governments and the Diffusion of Video Surveillance in China: Evidence from the Public Procurement Contracts",](https://www.dropbox.com/scl/fi/2gqbfmu5a6xdpz9efhayy/Journal-of-Chinese-Political-Science.pdf?rlkey=i3p3aaf5lt70dey7jvqq8jg7g&st=xfzdhsbg&dl=0) with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Xijie Li.   
 *Journal of Chinese Political Science*, 2025
 <details>
 <summary><u>Abstract</u></summary> 
@@ -25,7 +25,7 @@ moderating efect of local leaders’ personal characteristics and fnd that the a
 </p>
 </details>
 
-["公共安全基础设施建设与居民服务消费"](https://www.dropbox.com/scl/fi/dmm2rio56yrb4zq2vdhvj/_-1.pdf?rlkey=dnk6hjjdsj5pp52bqepkry0nv&st=vfw7h887&dl=0), with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Yichuan Zhang].      
+["公共安全基础设施建设与居民服务消费"](https://www.dropbox.com/scl/fi/dmm2rio56yrb4zq2vdhvj/_-1.pdf?rlkey=dnk6hjjdsj5pp52bqepkry0nv&st=vfw7h887&dl=0), with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Yichuan Zhang.      
 *世界经济*, 2025.
 <details>
 <summary><u>Abstract</u></summary> 
@@ -33,10 +33,10 @@ moderating efect of local leaders’ personal characteristics and fnd that the a
 </p>
 </details>
 
-["财政压力与罚没收入",](https://www.dropbox.com/scl/fi/jiex4tfgpvmj6y4asmjmj/_.pdf?rlkey=0d60c2vmdiajbvjf1pjbeie5y&st=90n6v5lt&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Chenglin Li].   
+["财政压力与罚没收入",](https://www.dropbox.com/scl/fi/jiex4tfgpvmj6y4asmjmj/_.pdf?rlkey=0d60c2vmdiajbvjf1pjbeie5y&st=90n6v5lt&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Chenglin Li.   
 *经济理论与经济管理*, 2025.
 
-["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and [Yulan Zhao].   
+["地方政府建设智能视频监控系统的影响因素研究",](https://www.dropbox.com/scl/fi/r8dve05n8kk3l3pagj1ys/_.pdf?rlkey=fwd3q59wm9keogij129j95spf&st=1xuk0km7&dl=0) with with [Pinghan Liang](https://sog.sysu.edu.cn/teacher/LiangPinghan) and Yulan Zhao.   
 *复旦公共行政评论*, 2025.
 
 **The Government Behavior under Big Data Applications**
@@ -87,7 +87,7 @@ concentrate on goods and construction projects procurement, high-value contracts
 </details>
 
 
-["Are proactive employees more creative? The roles of multisource information exchange and social exchange-based employee-organization relationships",](https://www.dropbox.com/scl/fi/7rwxipnaji71rrmxwfoe9/PID.pdf?rlkey=tegv1nw068774ihy3kjk63ui7&st=37dmyaow&dl=0) with [Xi Li] and Aishi Zhang.
+["Are proactive employees more creative? The roles of multisource information exchange and social exchange-based employee-organization relationships",](https://www.dropbox.com/scl/fi/7rwxipnaji71rrmxwfoe9/PID.pdf?rlkey=tegv1nw068774ihy3kjk63ui7&st=37dmyaow&dl=0) with Xi Li and Aishi Zhang.
 *Personality and Individual Differences*, 2021
 <details>
 <summary><u>Abstract</u></summary> 
