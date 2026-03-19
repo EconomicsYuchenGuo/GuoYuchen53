@@ -158,6 +158,15 @@ revenues, more driver petitions, and reduced activity in related industries, wit
 <p> Dollar stores feature products sold in small sizes, which are not necessarily cheaper in terms of unit price. The behavior of purchasing in smaller quantities, especially among low-income consumers, is puzzling given the quantity discount associated with bulk-buying. To unravel this phenomenon, we develop a structural model to disentangle potential explanations: limited access due to lack of transportation, liquidity constraints, and storage costs. </p>
 </details>-->
 
+## Awards & Honors
+- Second Prize, Outstanding Paper, China Youth Political Science Forum, 2024
+
+- Outstanding Paper Award, 12th National Doctoral Forum on Public Finance / Public Economics, 2025
+
+- Third Prize, 5th Tianjin University Doctoral Forum in Economics, 2023
+
+
+
 <!--	<p style="margin: 0px 0px 30px;">-->
 
 <!-- "Marijuana Tax and Product Variety". -->
