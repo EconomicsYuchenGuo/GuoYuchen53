@@ -140,7 +140,7 @@ revenues, more driver petitions, and reduced activity in related industries, wit
 </p>
 </details>
 
-"Departure from the Dust", with Hai Hong and Wentong Sun
+"Departure from the Dust", with [Hai Hong](https://www.haihong.me/) and [Wentong Sun](https://wentongsun.github.io/)
 
 
 <!-- "Demand Estimation without Outside Good Shares", [[arXiv](https://arxiv.org/abs/2602.19154v1)] with [Federico A. Bugni](https://sites.northwestern.edu/federicobugni/) and [Joel L. Horowitz](https://economics.northwestern.edu/people/directory/joel-horowitz.html).
