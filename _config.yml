@@ -6,4 +6,4 @@ google_analytics:
 theme: 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
+  # 删掉 jekyll-sitemap 这一行
