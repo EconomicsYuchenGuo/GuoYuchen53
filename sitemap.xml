@@ -2,19 +2,36 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 主页 -->
   <url>
     <loc>https://guoyuchen53.github.io/</loc>
     <image:image>
       <image:loc>https://guoyuchen53.github.io/assets/img/room3.jpg</image:loc>
-      <image:title>Yuchen Guo - Postdoctoral Fellow</image:title>
-      <image:caption>Yuchen Guo, Postdoctoral Fellow, CUHK</image:caption>
+      <image:title>Yuchen Guo - Postdoctoral Fellow at CUHK</image:title>
+      <image:caption>Yuchen Guo, Postdoctoral Fellow, CUHK-UC San Diego Joint Laboratory</image:caption>
     </image:image>
   </url>
+
+  <!-- Research页 -->
   <url>
     <loc>https://guoyuchen53.github.io/research.html</loc>
+    <image:image>
+      <image:loc>https://guoyuchen53.github.io/assets/img/deco2.png</image:loc>
+      <image:title>Research - Yuchen Guo</image:title>
+    </image:image>
   </url>
+
+  <!-- CV页 -->
   <url>
     <loc>https://guoyuchen53.github.io/cv.html</loc>
   </url>
+
+  <!-- Teaching页 -->
+  <url>
+    <loc>https://guoyuchen53.github.io/teaching.html</loc>
+  </url>
+
 </urlset>
